@@ -1,0 +1,20 @@
+RSS
+
+General
+ - user 
+ - group
+
+Feed
+- Title
+- Describtion
+- URL
+- Update
+- Cache
+- id
+
+Entry
+- id
+- read
+- headline
+- content
+- URL
